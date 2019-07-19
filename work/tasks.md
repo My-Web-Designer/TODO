@@ -11,4 +11,3 @@
 9. Fix UI as per wire frame.
 10. Reorder HTML, CSS and TS as per views.
 11. Test the component.
-12. Push the changes and send status email.
